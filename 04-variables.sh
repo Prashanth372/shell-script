@@ -8,3 +8,5 @@ NUMBER2=$2
 # i need to run a command inside the shell to add these 2 numbers
 
 SUM=$((NUMBER1+NUMBER2))
+
+echo "Addition of 2 numbers is: $SUM"
