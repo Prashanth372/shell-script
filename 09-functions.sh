@@ -3,6 +3,8 @@
 #our program goal is to install mysql
 
 DATE=$(date +%F-%H-%M-%S)
+SCRIPT_NAME=$0
+LOGFILE=/tmp/SCRIPT_NAME-$DATE.log
 
 USERID=$(id -u)
 #this function should validate the previous command and inform user whether its success or failure
