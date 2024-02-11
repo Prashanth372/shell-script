@@ -10,3 +10,4 @@ echo "all vars : $@"
 #testing
 
 echo "Number of vars : $#"
+#testing the keys
