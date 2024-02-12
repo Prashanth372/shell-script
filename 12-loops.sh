@@ -27,8 +27,6 @@ VALIDATE(){
     fi
 }    
 
-
-
 #all args are in $@
 
 for i in $@
