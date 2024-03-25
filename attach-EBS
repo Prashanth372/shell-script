@@ -1,0 +1,7 @@
+### Attach EBS Volumesto running EC2 Instances
+
+**NOTE:**
+* EBS volume should be in the same AZ where your instanace is running
+
+###
+ 
